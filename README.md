@@ -2,7 +2,9 @@
 
 صفحة تفاعلية عربية ترافق خطّة نشاط بدني بإستراتيجية المحطّات لطلبة الصف الأول الابتدائي (6–7 سنوات).
 
-**الرابط:** https://alozy666.github.io/little-heroes-stations/
+**افتح الصفحة:** https://htmlpreview.github.io/?https://github.com/alozy666/little-heroes-stations/blob/main/index.html
+
+(الرابط البديل عند عمل GitHub Pages: https://alozy666.github.io/little-heroes-stations/)
 
 | القسم | الاستخدام | رابط مباشر |
 |---|---|---|
